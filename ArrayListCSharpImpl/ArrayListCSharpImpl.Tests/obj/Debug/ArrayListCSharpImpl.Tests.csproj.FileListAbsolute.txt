@@ -1,0 +1,16 @@
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\ArrayListCSharpImpl.Tests.dll
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\ArrayListCSharpImpl.Tests.pdb
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\ArrayListCSharpImpl.exe
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\ArrayListCSharpImpl.pdb
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\ArrayListCSharpImpl.exe.config
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\obj\Debug\ArrayListCSharpImpl.Tests.csprojResolveAssemblyReference.cache
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\obj\Debug\ArrayListCSharpImpl.Tests.csproj.CoreCompileInputs.cache
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\obj\Debug\ArrayListCSharpImpl.Tests.dll
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl.Tests\obj\Debug\ArrayListCSharpImpl.Tests.pdb

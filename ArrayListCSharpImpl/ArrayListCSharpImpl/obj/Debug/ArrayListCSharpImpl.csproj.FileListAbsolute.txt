@@ -1,0 +1,7 @@
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl\bin\Debug\ArrayListCSharpImpl.exe.config
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl\bin\Debug\ArrayListCSharpImpl.exe
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl\bin\Debug\ArrayListCSharpImpl.pdb
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl\obj\Debug\ArrayListCSharpImpl.csprojResolveAssemblyReference.cache
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl\obj\Debug\ArrayListCSharpImpl.csproj.CoreCompileInputs.cache
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl\obj\Debug\ArrayListCSharpImpl.exe
+C:\Code\Projects\data-structures\ArrayListCSharpImpl\ArrayListCSharpImpl\obj\Debug\ArrayListCSharpImpl.pdb
